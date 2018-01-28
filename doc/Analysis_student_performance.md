@@ -6,6 +6,7 @@ This data collect student achievement in secondary education of two Portuguese s
 
 There are three grades recorded as `G1, G2, G3` in three exams. They are highly correlated as expected. Here we focus on the prediction on `G3`, the final grade in the range [0, 20]. The following is a distribution of the grades ![](../results/images/G3.png)
 
+An detailed analysis, feature selection, and model selection can be found in this [notebook]
 
 
 
